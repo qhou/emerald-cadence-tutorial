@@ -1,4 +1,4 @@
-# Lesson 1
+# Workshop 1
 
 ## 1.1 - Learning Blockchain Concepts
 
